@@ -17,6 +17,7 @@ ctx.lists["user.cursorless_homophone"] = [
     "cursor less",
     "cursor list",
     "chrysalis",
+    "cursor is",
 ]
 
 
